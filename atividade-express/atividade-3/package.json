@@ -1,9 +1,0 @@
-{
-  "name": "atividade-3-api-produtos",
-  "version": "1.0.0",
-  "private": true,
-  "description": "API de produtos com Express",
-  "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "dependencies": { "express": "^4.21.2" }
-}

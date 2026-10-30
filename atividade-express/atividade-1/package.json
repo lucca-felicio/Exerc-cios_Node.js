@@ -1,9 +1,0 @@
-{
-  "name": "atividade-1-apresentacao",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Servidor de apresentação com Express",
-  "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "dependencies": { "express": "^4.21.2" }
-}
